@@ -425,9 +425,9 @@ Lazy sync:
 
 Does:
 
--   `emerge --sync`
--   `eix-update`
--   `eix-diff`
+- `emerge --sync`
+- `eix-update`
+- `eix-diff`
 
 See which packages are installed from overlays:
 
@@ -445,8 +445,8 @@ The following
 
 Help resources:
 
--   [The official Wiki](https://wiki.gentoo.org/wiki/Main_Page)
--   [Forums](http://forums.gentoo.org/)
+- [The official Wiki](https://wiki.gentoo.org/wiki/Main_Page)
+- [Forums](http://forums.gentoo.org/)
 
 Literature:
 
