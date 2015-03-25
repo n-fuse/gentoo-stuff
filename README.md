@@ -12,7 +12,7 @@ The Gentoo Advantages
 - Rolling Release
 - Bleeding Edge Software
 - Good Wiki
-- Suits for Client and Server and Embedded Devicesp
+- Suits for Client and Server and Embedded Devices
 
 Freedom of Choice
 
@@ -407,7 +407,7 @@ Gentoo specific tooling overview:
 
 Some nice examples of the features provided by these tools in the following.
 
-Recmopile the _entire_ system:
+Recompile the _entire_ system:
 
 `emerge -e world`
 
@@ -435,7 +435,7 @@ See which packages are installed from overlays:
 
 Is all software on the system managed by Portage?:
 
-No, it does not make sense for everyhting and not everything is available on portage.
+No, it does not make sense for everything and not everything is available on portage.
 The following
 
 - Java based software
