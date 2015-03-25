@@ -12,7 +12,7 @@ The Gentoo Advantages
 - Rolling Release
 - Bleeding Edge Software
 - Good Wiki
-- Suits for Client and Server and Embedded Devicesp
+- Suits for Client and Server and Embedded Devices
 
 Freedom of Choice
 
@@ -407,7 +407,7 @@ Gentoo specific tooling overview:
 
 Some nice examples of the features provided by these tools in the following.
 
-Recmopile the _entire_ system:
+Recompile the _entire_ system:
 
 `emerge -e world`
 
