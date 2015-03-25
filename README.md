@@ -435,7 +435,7 @@ See which packages are installed from overlays:
 
 Is all software on the system managed by Portage?:
 
-No, it does not make sense for everyhting and not everything is available on portage.
+No, it does not make sense for everything and not everything is available on portage.
 The following
 
 - Java based software
